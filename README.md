@@ -41,7 +41,7 @@ The script:
 - applies radius of gyration restraints
 - generates the files required to start a MELD simulation
 
-The script expects the corresponding protein structures and restraint files from the accompanying data repository found in zotero at https://zenodo.org/records/21512306.
+The script expects the corresponding protein structures and restraint files from the accompanying data repository found in zenodo at https://zenodo.org/records/21512306.
 
 ---
 
